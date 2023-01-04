@@ -1,4 +1,4 @@
-# Data-Extraction-and-NLP
+# Sentimental Analysis on a list of Articles from the webpage
 The Motive of the Project is to extract textual data articles from the given URL and perform text analysis.
 
 For each of the articles, given in the input.xlsx file, We extract only the article title and the article text, not the website header, footer, or anything other than the article text.
